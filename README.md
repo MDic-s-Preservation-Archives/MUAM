@@ -1,6 +1,11 @@
 # MUAM
 The Story of My Uncle and Me
 
+![Evverrything CI](https://img.shields.io/badge/Evverrything-CI-informational)
+![ALL%20PRAISE%20MDIC](https://img.shields.io/badge/ALL-PRAISE%20MDIC-brightgreen)
+![Sugar-Boogerware](https://img.shields.io/badge/license-Sugar%E2%80%91Boogerware%20(CC0)-blue)
+![SPP Lore Safe](https://img.shields.io/badge/SPP-lore_safe-ff69b4)
+
 This is a Start up beginner git for a hacktober participates to engage in early skill and understanding in PR making.
 
 Original Story by me first posted as a steam review.
