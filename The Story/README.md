@@ -77,5 +77,8 @@ I whispered calmly. "Don’t stop me once you come, because I’m planning on gi
 
 "How do I add to this adventure?", I asked myself.
 
+"This feels like a broken drillpress!", I told myself.
+
+
 
   
