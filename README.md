@@ -1,6 +1,9 @@
 # MUAM
 The Story of My Uncle and Me
 
+![Evverrything CI](https://img.shields.io/badge/Evverrything-CI-informational)
+![ALL%20PRAISE%20MDIC](https://img.shields.io/badge/ALL-PRAISE%20MDIC-brightgreen)
+
 This is a Start up beginner git for a hacktober participates to engage in early skill and understanding in PR making.
 
 Original Story by me first posted as a steam review.
