@@ -17,14 +17,14 @@ I opened the steel glass door and this smell overcame me, a sweet and meaty arom
 
 He looked like a deer caught in headlights when I stared blankly at him, he asked me something and I did not hear them as I was awe struck with his amazing beauty and lean figure. Finally, after a few seconds that felt like hours, he managed to stammer out, "I I I apologize, I didn't mean to distract you... I haven't even had a full day yet alone known you a full day yet."
 
-"What's on the menu Sir? I have never been to such a establishment before, I Guess crazy runs in the family for not going out often." That got a good laugh from both of us. Once the laughter died, we both sat there in silence, expecting the other to say or do something first.
+"What's on the menu Sir? I have never been to such a establishment before, I guess crazy runs in the family for not going out often." That got a good laugh from both of us. Once the laughter died, we both sat there in silence, expecting the other to say or do something first.
 
 Eventually, The man of my momentary fantasy spoke. "My Name is Colonel Sander-son, and everything is on the menu..."
 "E-e-everything?" I stuttered as I stared at his gorgeous chiseled face and chest, that amazing apron just compliments the wild imagination I have of his figure, leaving only my imagination of what's below and behind the counter.
 He winked slightly at my question and took a few moments to consider his response. Sander-son replies under his breath, "Evverrything..."
 
 "I will take the open house special for one for here please" I spoke calmly as customers were beginning to stare at me taking my time at the front counter.
-"We have a special bonus after your meal since you are the 100th customer of the day, if you are interested, we can talk about it more in my office after your meal sir"
+"We have a special bonus after your meal since you are the 100th customer of the day, if you are interested, we can talk about it more in my office after your meal, sir"
 "Thank you Sander-son... I will..."
 
 # Chapter 2
@@ -33,7 +33,7 @@ He winked slightly at my question and took a few moments to consider his respons
 I finished my meal and sat there at the table with a empty tray, I do not even know what it tasted like, I was like a machine that went thru the movement of eating but my mind was stuck on Sander-son..
 What was this feeling I am having...
 I looked over and stared at Sander-son's eyes.... He gave me a stern look and nodded. I got up from my table and proceeded to walk to wards him and he stares at the direction of his office.
-The wooden door closed behind me as we both entered. The click of the lock was heard but I was more focus on the open chair in front of me when I entered. He had a corner desk with a lamp and laptop, no windows were visible.
+The wooden door closed behind me as we both entered. The click of the lock was heard but I was more focused on the open chair in front of me when I entered. He had a corner desk with a lamp and laptop, no windows were visible.
 He lifted our hands to my mouth and kissed the back of his. "Thank you for coming in. It's the first time anyone spoke to me with their eyes at a grand opening. Honestly, I always felt abandoned on opening days with the new restaurant. People tend to be more interested in just getting their food and leaving.
 "So, I need to ask, this isn't weird for you?" He spoke softly.
 "Why? Is it weird for you?" I then replied
