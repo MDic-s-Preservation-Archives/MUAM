@@ -79,6 +79,10 @@ I whispered calmly. "Don’t stop me once you come, because I’m planning on gi
 
 "This feels like a broken drillpress!", I told myself.
 
+I pulled my thoughts together. The Burger King Dating Simulator must be obtainable somehow?
+
+
+
 
 
   
