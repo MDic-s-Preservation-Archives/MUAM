@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>TrinityCore Condition Creator</title>
+    <style>
+      .navbar {
+        display: flex;
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        padding: 8px;
+        margin-bottom: 20px;
+        backdrop-filter: blur(10px);
+      }
+
+      .nav-button {
+        background: rgba(255, 255, 255, 0.1);
+        border: none;
+        color: #e0e0e0;
+        padding: 8px 16px;
+        margin: 0 4px;
+        border-radius: 6px;
+        font-family: "Inter", sans-serif;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        display: flex;
+        align-items: center;
+      }
+
+      .nav-button:hover {
+        background: rgba(255, 255, 255, 0.2);
+        color: white;
+      }
+
+      .nav-button.active {
+        background: rgba(98, 0, 238, 0.5);
+        color: white;
+      }
+
+      .nav-button .btn-icon {
+        margin-right: 8px;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="background-pattern"></div>
+    <div class="container">
+      <header class="header">
+        <div class="logo">
+          <div class="logo-icon">△</div>
+          <h1 class="title">TrinityCore Condition Creator (Retail)</h1>
+        </div>
+        <div class="subtitle">
+          Build powerful database conditions for retail TrinityCore
+        </div>
+      </header>
+
+      <div class="navbar">
+        <button
+          class="nav-button active"
+          onclick="window.location.href='https://conditions.kesug.com/?i=1'"
+        >
+          <span class="btn-icon">⚙️</span>
+          Conditions
+        </button>
+        <button
+          class="nav-button"
+          onclick="window.location.href='https://conditions.kesug.com/pool/'"
+        >
+          <span class="btn-icon">🌊</span>
+          Pools
+        </button>
+      </div>
+
+      <div class="credits">
+        <div class="credits-content">
+          <span class="credits-text">Made by</span>
+          <span class="credits-names">Malcrom & Whomadeit</span>
+        </div>
+      </div>
+
+      <div class="main-grid">
+        <div class="section-card source-section">
+          <div class="section-header">
+            <div class="section-icon">🎯</div>
+            <h2>Source Configuration</h2>
+          </div>
+          <div class="dropdownsource">
+            <div class="select">
+              <span class="selected">SOURCE_NONE</span>
+              <div class="caret"></div>
+            </div>
+            <ul class="menu">
+              <li class="active">SOURCE_NONE</li>
+              <li>CREATURE_LOOT_TEMPLATE</li>
+              <li>DISENCHANT_LOOT_TEMPLATE</li>
+              <li>FISHING_LOOT_TEMPLATE</li>
+              <li>GAMEOBJECT_LOOT_TEMPLATE</li>
+              <li>ITEM_LOOT_TEMPLATE</li>
+              <li>MAIL_LOOT_TEMPLATE</li>
+              <li>MILLING_LOOT_TEMPLATE</li>
+              <li>PICKPOCKETING_LOOT_TEMPLATE</li>
+              <li>PROSPECTING_LOOT_TEMPLATE</li>
+              <li>REFERENCE_LOOT_TEMPLATE</li>
+              <li>SKINNING_LOOT_TEMPLATE</li>
+              <li>SPELL_LOOT_TEMPLATE</li>
+              <li>SPELL_IMPLICIT_TARGET</li>
+              <li>GOSSIP_MENU</li>
+              <li>GOSSIP_MENU_OPTION</li>
+              <li>CREATURE_TEMPLATE_VEHICLE</li>
+              <li>SPELL_SOURCE</li>
+              <li>SPELL_CLICK_EVENT</li>
+              <li>QUEST_AVAILABLE</li>
+              <li>VEHICLE_SPELL</li>
+              <li>SMART_EVENT</li>
+              <li>NPC_VENDOR</li>
+              <li>SPELL_PROC</li>
+              <li>TERRAIN_SWAP_SOURCE</li>
+              <li>PHASE</li>
+              <li>GRAVEYARD</li>
+              <li>AREATRIGGER</li>
+              <li>CONVERSATION_LINE</li>
+              <li>AREATRIGGER_CLIENT_TRIGGERED</li>
+              <li>TRAINER_SPELL</li>
+              <li>OBJECT_ID_VISIBILITY</li>
+              <li>SPAWN_GROUP</li>
+              <li>PLAYER_CONDITION_SOURCE</li>
+              <li>SKILL_LINE_ABILITY</li>
+            </ul>
+          </div>
+          <div class="boxsource" name="boxsource"></div>
+        </div>
+
+        <div class="section-card condition-section">
+          <div class="section-header">
+            <div class="section-icon">⚙️</div>
+            <h2>Condition Logic</h2>
+          </div>
+          <div class="dropdowncondition">
+            <div class="select">
+              <span class="selected">NONE</span>
+              <div class="caret"></div>
+            </div>
+            <ul class="menu">
+              <li class="active">NONE</li>
+              <li>AURA</li>
+              <li>ITEM</li>
+              <li>ITEM_EQUIPPED</li>
+              <li>ZONEID</li>
+              <li>REPUTATION_RANK</li>
+              <li>TEAM</li>
+              <li>SKILL</li>
+              <li>QUESTREWARDED</li>
+              <li>QUESTTAKEN</li>
+              <li>DRUNKENSTATE</li>
+              <li>WORLD_STATE</li>
+              <li>ACTIVE_EVENT</li>
+              <li>INSTANCE_INFO</li>
+              <li>QUEST_NONE</li>
+              <li>CLASS</li>
+              <li>RACE</li>
+              <li>ACHIEVEMENT</li>
+              <li>TITLE</li>
+              <li>GENDER</li>
+              <li>UNIT_STATE</li>
+              <li>MAPID</li>
+              <li>AREAID</li>
+              <li>CREATURE_TYPE</li>
+              <li>SPELL</li>
+              <li>PHASEID</li>
+              <li>LEVEL</li>
+              <li>QUEST_COMPLETE</li>
+              <li>NEAR_CREATURE</li>
+              <li>NEAR_GAMEOBJECT</li>
+              <li>OBJECT_ENTRY_GUID_LEGACY</li>
+              <li>TYPE_MASK_LEGACY</li>
+              <li>RELATION_TO</li>
+              <li>REACTION_TO</li>
+              <li>DISTANCE_TO</li>
+              <li>ALIVE</li>
+              <li>HP_VAL</li>
+              <li>HP_PCT</li>
+              <li>REALM_ACHIEVEMENT</li>
+              <li>IN_WATER</li>
+              <li>TERRAIN_SWAP</li>
+              <li>STAND_STATE</li>
+              <li>CLASS_HALL_ADVANCEMENT</li>
+              <li>DAILY_QUEST_DONE</li>
+              <li>CHARMED</li>
+              <li>PET_TYPE</li>
+              <li>TAXI</li>
+              <li>QUESTSTATE</li>
+              <li>QUEST_OBJECTIVE_PROGRESS</li>
+              <li>DIFFICULTY_ID</li>
+              <li>GAMEMASTER</li>
+              <li>OBJECT_ENTRY_GUID</li>
+              <li>TYPE_MASK</li>
+              <li>BATTLE_PET_COUNT</li>
+              <li>SCENARIO_STEP</li>
+              <li>SCENE_IN_PROGRESS</li>
+              <li>PLAYER_CONDITION</li>
+              <li>PRIVATE_OBJECT</li>
+              <li>STRING_ID</li>
+              <li>LABEL</li>
+            </ul>
+          </div>
+          <div class="boxcondition" name="boxcondition"></div>
+        </div>
+
+        <div class="section-card misc-section">
+          <div class="section-header">
+            <div class="section-icon">🔧</div>
+            <h2>Additional Settings</h2>
+          </div>
+
+          <div class="boxmisc" id="boxmisc">
+            <div class="form-group">
+              <label>ElseGroup</label>
+              <div class="dropdown-misc elsegroup-dropdown">
+                <div class="select">
+                  <span class="selected">0</span>
+                  <div class="caret"></div>
+                </div>
+                <ul class="menu">
+                  <li class="active" data-value="0">0</li>
+                  <li data-value="1">1</li>
+                  <li data-value="2">2</li>
+                  <li data-value="3">3</li>
+                  <li data-value="4">4</li>
+                  <li data-value="5">5</li>
+                  <li data-value="6">6</li>
+                  <li data-value="7">7</li>
+                  <li data-value="8">8</li>
+                  <li data-value="9">9</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label>Negative Condition</label>
+              <div class="dropdown-misc negative-dropdown">
+                <div class="select">
+                  <span class="selected">No</span>
+                  <div class="caret"></div>
+                </div>
+                <ul class="menu">
+                  <li class="active" data-value="0">No</li>
+                  <li data-value="1">Yes</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label>Error Text ID</label>
+              <input
+                type="text"
+                class="modern-input"
+                pattern="[0-9]"
+                id="errortext"
+                value="0"
+                placeholder="Enter error text ID"
+              />
+            </div>
+
+            <div class="form-group">
+              <label>Script Name</label>
+              <input
+                type="text"
+                class="modern-input"
+                id="scriptname"
+                placeholder="Enter script name"
+              />
+            </div>
+          </div>
+
+          <div class="action-buttons">
+            <button class="btn btn-secondary buttonclearmisc">
+              <span class="btn-icon">🗑️</span>
+              Clear Values
+            </button>
+
+            <button class="btn btn-primary buttoncreatecondition">
+              <span class="btn-icon">✨</span>
+              Generate Condition
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="output-section">
+        <div class="section-header">
+          <div class="section-icon">📝</div>
+          <h2>Generated SQL Output</h2>
+          <div class="output-actions">
+            <button class="btn btn-outline" onclick="clearOutput()">
+              <span class="btn-icon">🗑️</span>
+              Clear Output
+            </button>
+          </div>
+        </div>
+        <div class="boxoutput" name="boxoutput">
+          <textarea
+            id="conditonoutput"
+            spellcheck="false"
+            placeholder="Your generated SQL conditions will appear here..."
+          ></textarea>
+        </div>
+      </div>
+    </div>
+
+    <script src="condition.js?v=0.1"></script>
+  </body>
+</html>
