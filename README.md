@@ -1,5 +1,5 @@
 # MUAM
-The Story of My Uncle and Me
+The Story of Me Uncle and Me
 
 ![Evverrything CI](https://img.shields.io/badge/Evverrything-CI-informational)
 ![ALL%20PRAISE%20MDIC](https://img.shields.io/badge/ALL-PRAISE%20MDIC-brightgreen)
