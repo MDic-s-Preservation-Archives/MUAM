@@ -1,5 +1,5 @@
 # MUAM
-The Story of My Uncle and Me
+The Story of Me Uncle and Me
 
 ![Evverrything CI](https://img.shields.io/badge/Evverrything-CI-informational)
 ![ALL%20PRAISE%20MDIC](https://img.shields.io/badge/ALL-PRAISE%20MDIC-brightgreen)
@@ -13,3 +13,5 @@ https://steamcommunity.com/id/M-Dic/recommended/1121910/
        
 Story for further developement and prs to be made on the README.md file located at
 https://github.com/MDic-s-Preservation-Archives/MUAM/tree/main/The%20Story
+
+Respect the cock
