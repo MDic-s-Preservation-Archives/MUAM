@@ -3,7 +3,7 @@
 # Chapter 1
 "Did you say Evverrything?"
      
-It was a cool autumn afternoon as I walked down the street in this busy city. I had a day off from work unexpectedly, I didn't want to stay home so I went for a walk to set my mind straight. Graduated from the university and still live with my parents. My life is pathetic.
+It was a cool summer afternoon as I walked down the street in this busy city. I had a day off from work unexpectedly, I didn't want to stay home so I went for a walk to set my mind straight. Graduated from the university and still live with my parents. My life is pathetic.
 
 I was not happy and was not sad about my life, but I was hoping I can find something in my life that will fulfill my purpose and meaning in life.
 
